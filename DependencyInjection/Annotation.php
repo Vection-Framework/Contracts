@@ -11,12 +11,12 @@
 
 declare(strict_types=1);
 
-namespace Vection\Contracts\DI;
+namespace Vection\Contracts\DependencyInjection;
 
 /**
  * Interface Annotation
  *
- * @package Vection\Contracts\DI
+ * @package Vection\Contracts\DependencyInjection
  *
  * @author  David M. Lung <vection@davidlung.de>
  */
